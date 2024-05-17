@@ -23,7 +23,7 @@ Considerandos:
 	* Usar la libreria requests: import requests; primero instalar la librería: pip install requests
 	* Usar el método get: requests.get(dirección del archivo json en str)
 	* Obtener los datos en json a través de .json():  
-
+--
 * Guardar los registros en la base de datos local.
 * Realizar la siguientes consultas, usar archivos separados para cada consulta.:
 	* Presentar todos los países del continente americano
